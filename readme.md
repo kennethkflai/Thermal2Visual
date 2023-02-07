@@ -16,6 +16,7 @@ Face Generated using cyclegan is evaluated using CNNs (Inception V3, Xception, a
 The experiment in this paper is based on the [Carl Dataset](http://splab.cz/en/download/databaze/carl-database). A description of the dataset can be found in:
 
 *V. Espinosa-Duró, M. Faundez-Zanuy, and J. Mekyska, “A new face database simultaneously acquired in visible, near-infrared and thermal spectrums,” Cognitive Computation, vol. 5, no. 1, pp. 119-135, 2013*
+
 *V. Espinosa-Duró, M. Faundez-Zanuy, J. Mekyska, and E. Monte-Moreno, “A Criterion for Analysis of Different Sensor Combinations with an Application to Face Biometrics,” Cognitive Computation, vol. 2, no. 3, pp. 135-141, 2010*
 
 ## Code
